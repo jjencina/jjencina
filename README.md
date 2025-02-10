@@ -7,10 +7,10 @@ Soy un estudiante de Ingeniería del software en el último año. Muy dedicado y
 - **C++**
 - **Java**
 - **JavaScript**
+- **Python**
 - **MySQL**
 - **Git**
 - **Node.js**
-- **Bootstrap**
 - **Linux**
 - **SCRUM**
 
